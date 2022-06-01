@@ -34,7 +34,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
 <br><br>
-## Redes Sociais
+## :earth_americas: Redes Sociais
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/felipe-silveira-lara-85706110b/" target="_blank">
