@@ -3,7 +3,7 @@
 
 - 🔥 Programador Pleno na empresa Sevopa S/A a muitos anos;
 
-- :open_book: Adoro o mundo tecnologico e sempre estudando novas tecnologias.
+- :open_book: Adoro o mundo tecnológico e sempre estudando novos desafios.
 
 - 👨‍💻 Buscando sempre oportunidades que valorizam as minhas lutas e conquista!
 
