@@ -3,11 +3,11 @@
 
 - 🔥 Programador Pleno na empresa Sevopa S/A a muitos anos;
 
-- :open_book: Adoro o mundo tecnológico e sempre estudando novos desafios.
+- :open_book: Amente tecnológico, sempre buscando novos desafios.
 
-- 👨‍💻 Buscando sempre oportunidades que valorizam as minhas lutas e conquista!
+- 👨‍💻 Procuro sempre oportunidades que valorizam as minhas lutas e conquista!
 
-- 💬 Caso precise queria falar comigo, fique avontade pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**
+- 💬 Quer falar comigo?, fique avontade pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**:full_moon_with_face:
 
 - :robot: Hoje trabalhando muito com RPA, uma nova paixão!!!
 
