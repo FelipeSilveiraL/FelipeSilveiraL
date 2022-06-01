@@ -1,3 +1,13 @@
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeSilveiraL&show_icons=true&theme=vision-friendly-dark" alt="FelipeSilveiraL"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilveiraL&layout=compact&theme=vision-friendly-dark" alt="FelipeSilveiraL most languages"/>
+</p>
+
+<br><br>
 <!--
 **FelipeSilveiraL/FelipeSilveiraL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
