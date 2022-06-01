@@ -18,7 +18,7 @@
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilveiraL&layout=compact&theme=vision-friendly-dark" alt="FelipeSilveiraL"/>
 </p>
 
-<br><br>
+<br>
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,7 +33,7 @@
 ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
-<br><br>
+<br>
 ## Redes Sociais
 
 <p align="left" style="background:yellow">
