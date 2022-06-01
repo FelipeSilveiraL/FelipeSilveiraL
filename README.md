@@ -7,7 +7,7 @@
 
 - 👨‍💻 Procuro sempre oportunidades que valorizam as minhas lutas e conquista!
 
-- 💬 Quer falar comigo?...fique avontade pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**:full_moon_with_face:
+- 💬 Quer falar comigo?...fique à vontade pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**:full_moon_with_face:
 
 - :robot: Hoje trabalhando muito com RPA, uma nova paixão!!!
 
