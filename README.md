@@ -19,7 +19,7 @@
 </p>
 
 <br><br>
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Lista Tecnologia
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
