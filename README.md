@@ -1,6 +1,15 @@
-<h1 align="left">Olá, Bem vindo!!!</h1>
+<h1 align="left">Olá, Seja muito bem vindo!!!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Profile views" /> </p>
-<br><br>
+
+- 🔥 Programador Pleno na empresa Sevopa S/A a muitos anos;
+
+- :open_book: Adoro o mundo tecnologico e sempre estudando novas tecnologias.
+
+- 👨‍💻 Buscando sempre oportunidades que valorizam as minhas lutas e conquista!
+
+- 💬 Caso precise queria falar comigo, fique avontade pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**
+
+- :robot: Hoje trabalhando muito com RPA, uma nova paixão!!!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
