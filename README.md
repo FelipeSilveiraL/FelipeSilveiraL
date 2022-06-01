@@ -1,3 +1,5 @@
+<h1 align="left">Olá, bem vindo!!!</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Profile views" /> </p>
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -22,14 +24,20 @@
 ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
+<br><br>
+## Redes Sociais
 
-
-
-
-
-
-
-
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/felipe-silveira-lara-85706110b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-FelipeSilveiraL-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/felipesilveiralara/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-FelipeSilveiraL-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.facebook.com/felipe.silveira.967" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-FelipeSilveiraL-05122A?style=flat&logo=facebook" alt="facebook"/>
+</a>
+</p>
 
 <!--
 **FelipeSilveiraL/FelipeSilveiraL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
