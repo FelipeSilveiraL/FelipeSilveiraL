@@ -10,11 +10,11 @@
 
 - :open_book: Amante tecnológico, sempre buscando novos desafios.
 
-- 👨‍💻 Procuro oportunidades que valorizam as minhas lutas e conquista!
+- 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!
 
-- 💬 Quer falar comigo? fique à vontade pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**:full_moon_with_face:
+- 💬 Quer falar comigo? Fique a vontade, pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**:full_moon_with_face:
 
-- :robot: Hoje trabalhando muito com RPA, uma nova paixão!!!
+- :robot: Principal ferramenta de trabalho é RPA, uma nova paixão!!!
 
 ## ⚙️ &nbsp;GitHub Analytics,
 
