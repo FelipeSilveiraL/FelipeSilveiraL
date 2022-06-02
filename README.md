@@ -11,7 +11,9 @@
 
 - :robot: Hoje trabalhando muito com RPA, uma nova paixão!!!
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics,
+
+![87b4fe_b96c3c195ef84fb992f979fc1bd23ad5_mv2](https://user-images.githubusercontent.com/82624468/171520807-3498db67-91e8-4bec-adbb-d54e1875d6ba.gif)
 
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=FelipeSilveiraL&show_icons=true&theme=highcontrast" alt="FelipeSilveiraL"/>
