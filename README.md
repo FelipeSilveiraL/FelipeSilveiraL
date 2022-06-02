@@ -13,8 +13,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics,
 
-<img width="720em" src="https://user-images.githubusercontent.com/82624468/171520807-3498db67-91e8-4bec-adbb-d54e1875d6ba.gif" alt="FelipeSilveiraL" />
-
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=FelipeSilveiraL&show_icons=true&theme=highcontrast" alt="FelipeSilveiraL"/>
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilveiraL&layout=compact&theme=vision-friendly-dark" alt="FelipeSilveiraL"/>
