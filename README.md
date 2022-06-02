@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/82624468/171522027-9480e627-8e10-489a-87ec-4cae22375610.gif" alt="footer"/>
 </p>
 
-- 🔥 Programador Pleno na empresa Sevopa S/A a muitos anos;
+- 🔥 Programador Pleno na empresa Sevopa S/A a mais de 4 anos;
 
 - :open_book: Amente tecnológico, sempre buscando novos desafios.
 
