@@ -2,8 +2,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Profile views" /> </p>
 
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/82624468/171522027-9480e627-8e10-489a-87ec-4cae22375610.gif" alt="footer"/>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/82624468/171522027-9480e627-8e10-489a-87ec-4cae22375610.gif" alt="footer"/>
 </p>
 
