@@ -1,6 +1,12 @@
 <h1 align="left">Olá, Seja muito bem vindo!!!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Profile views" /> </p>
 
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/82624468/171522027-9480e627-8e10-489a-87ec-4cae22375610.gif" alt="footer"/>
+  <img src="https://user-images.githubusercontent.com/82624468/171522027-9480e627-8e10-489a-87ec-4cae22375610.gif" alt="footer"/>
+</p>
+
 - 🔥 Programador Pleno na empresa Sevopa S/A a muitos anos;
 
 - :open_book: Amente tecnológico, sempre buscando novos desafios.
@@ -47,7 +53,6 @@
   <img align="center" src="https://img.shields.io/badge/-FelipeSilveiraL-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
-
 <!--
 **FelipeSilveiraL/FelipeSilveiraL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
