@@ -14,7 +14,7 @@
 
 - 💬 Quer falar comigo? Fique a vontade, pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**:full_moon_with_face:
 
-- :robot: Principal ferramenta de trabalho é RPA, uma nova paixão!!!
+- :robot: RAP, é uma nova paixão rs!!!
 
 ## ⚙️ &nbsp;GitHub Analytics,
 
