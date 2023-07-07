@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://www.8pdev.studio/upload/2020/03/code.gif" alt="footer"/>
+  <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="footer"/>
 </p>
 
 - 🔥 Programador Pleno na empresa Sevopa S/A a mais de 4 anos;
