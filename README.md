@@ -12,8 +12,6 @@
 
 - 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!
 
-- 🖥️ **JavaScript, HTML, CSS, SQL, PHP - Laravel, RPA**:full_moon_with_face:
-
 ## ⚙️ &nbsp;GitHub Analytics,
 
 <p align="left">
