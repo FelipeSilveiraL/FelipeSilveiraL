@@ -12,9 +12,7 @@
 
 - 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!
 
-- 💬 Quer falar comigo? Fique a vontade, pois posso te ajudar em **JavaScript, HTML, CSS, SQL, PHP, RPA**:full_moon_with_face:
-
-- :robot: RAP, é uma nova paixão rs!!!
+- 🖥️ **JavaScript, HTML, CSS, SQL, PHP - Laravel, RPA**:full_moon_with_face:
 
 ## ⚙️ &nbsp;GitHub Analytics,
 
