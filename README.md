@@ -12,6 +12,8 @@
 
 - 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!
 
+- Organizações em que estou trabalhando (<a href="https://github.com/Grupo-Servopa">Grupo Servopa</a>)
+
 ## ⚙️ &nbsp;GitHub Analytics,
 
 <p align="left">
