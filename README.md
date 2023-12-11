@@ -6,13 +6,12 @@
   <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="footer"/>
 </p>
 
-- 🔥 Programador Pleno na empresa Sevopa S/A a mais de 4 anos;
+- 🔥 Atualmente trabalho na empresa <a href="https://preambulo.com.br/" target="_blank">Preâmbulo</a> como programador II.
 
 - :open_book: Amante tecnológico, sempre buscando novos desafios.
 
-- 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!
+- 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!.
 
-- Atualmente trabalho na empresa <a href="https://preambulo.com.br/" target="_blank">Preâmbulo</a>
 
 ## ⚙️ &nbsp;GitHub Analytics,
 
