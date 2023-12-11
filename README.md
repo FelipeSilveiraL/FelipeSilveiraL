@@ -12,7 +12,7 @@
 
 - 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!
 
-- Organizações em que estou trabalhando (<a href="https://github.com/Grupo-Servopa">Grupo Servopa</a> / <a href="https://github.com/OrganizationDeve">Transportadora</a>)
+- Atualmente trabalho na empresa <a href="https://preambulo.com.br/" target="_blank">Preâmbulo</a>
 
 ## ⚙️ &nbsp;GitHub Analytics,
 
