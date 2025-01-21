@@ -6,7 +6,7 @@
   <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="footer"/>
 </p>
 
-- 🔥 Atualmente trabalho na empresa <a href="https://preambulo.com.br/" target="_blank">Preâmbulo</a> como programador II.
+- 🔥 Atualmente trabalho na empresa <a href="https://www.ovd.com.br/site/index.html" target="_blank">Grupo OVD</a> como Programador Senior RPA.
 
 - :open_book: Amante tecnológico, sempre buscando novos desafios.
 
