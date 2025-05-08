@@ -1,6 +1,13 @@
 <h1 align="center">👋 Olá! Seja muito bem-vindo ao meu perfil no GitHub!</h1>
 
 <p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/🌐 English%20Version-05122A?style=for-the-badge&logo=github" alt="English Version" />
+  </a>
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Visualizações de perfil" />
 </p>
 
