@@ -10,9 +10,14 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔥 Atualmente trabalho como **Programador Sênior RPA** no [Grupo OVD](https://www.ovd.com.br/site/index.html).
-- 🚀 Entusiasta por tecnologia, sempre em busca de novos desafios.
-- 🎯 Estou em busca de oportunidades que valorizem meu conhecimento e habilidades.
+Sou **Felipe Silveira Lara**, profissional de tecnologia com mais de **10 anos de experiência** na área de desenvolvimento e automação. Atualmente atuo como **Programador Sênior de RPA** no [Grupo OVD](https://www.ovd.com.br/site/index.html), onde lidero projetos que geram ganhos operacionais reais por meio da automação de processos.
+
+- 🏆 Reconhecido como **Automation Rockstar** pela [AutomationEdge](https://automationedge.com/br/) por desenvolver mais de **200 robôs de automação**.
+- 🥇 Premiado como **Melhor TI de 2021**, devido ao impacto gerado com soluções automatizadas que otimizam tempo e recursos.
+- 🚛 Criador de uma **plataforma para gestão de frotas e motoristas** para uma transportadora.
+- ⛪ Desenvolvedor de uma **plataforma que gerencia e monitora igrejas**, auxiliando na organização de comunidades religiosas.
+
+Sou apaixonado por tecnologia e movido por desafios. Gosto de transformar problemas complexos em soluções práticas e eficientes, sempre com foco em inovação e melhoria contínua.
 
 ---
 
@@ -40,14 +45,17 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![RPA](https://img.shields.io/badge/-RPA-05122A?style=flat&logo=robots&logoColor=white)&nbsp;
+
 ---
 
 ## 📚 Aprendizado contínuo
 
 Atualmente me aprofundando em:
 
-- 🐍 **Python**
-- 🤖 **Automação e Robotic Process Automation (RPA - <a href="https://automationedge.com/br/" target="_blank" style="color: rgb(255, 149, 0)"> AutomationEdge </a>)**
+- 🐍 **Python**  
+- 🤖 **Automação e Robotic Process Automation (RPA - [AutomationEdge](https://automationedge.com/br/))**
+
+> Utilizo **Python** como principal linguagem para desenvolvimento de automações e integração de processos dentro da plataforma **AutomationEdge**.
 
 ---
 
