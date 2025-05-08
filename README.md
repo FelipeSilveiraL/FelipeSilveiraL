@@ -47,7 +47,7 @@
 Atualmente me aprofundando em:
 
 - 🐍 **Python**
-- 🤖 **Automação e Robotic Process Automation (RPA)**
+- 🤖 **Automação e Robotic Process Automation (RPA - <a href="https://automationedge.com/br/" target="_blank" style="color: rgb(255, 149, 0)"> AutomationEdge </a>)**
 
 ---
 
