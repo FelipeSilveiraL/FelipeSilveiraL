@@ -55,7 +55,8 @@ Atualmente me aprofundando em:
 - 🐍 **Python**  
 - 🤖 **Automação e Robotic Process Automation (RPA - [AutomationEdge](https://automationedge.com/br/))**
 
-> Utilizo **Python** como principal linguagem para desenvolvimento de automações e integração de processos dentro da plataforma **AutomationEdge**.
+> Utilizo o **Process Studio** como principal ferramenta de desenvolvimento de automações dentro da plataforma **AutomationEdge**.  
+> Com o apoio do **Python**, consigo criar robôs mais robustos, escaláveis e altamente confiáveis.
 
 ---
 
