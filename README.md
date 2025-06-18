@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Felipe Silveira Lara**, profissional de tecnologia com mais de **10 anos de experiência** na área de desenvolvimento e automação. Atualmente atuo como **Programador Sênior de RPA** no [Grupo OVD](https://www.ovd.com.br/site/index.html), onde lidero projetos que geram ganhos operacionais reais por meio da automação de processos.
+Sou **Felipe Silveira Lara**, profissional de tecnologia com mais de **10 anos de experiência** na área de desenvolvimento e automação. Atualmente atuo como **Programador Sênior de RPA** no [DT Consulting](https://dtconsulting.com.br/), onde lidero projetos que geram ganhos operacionais reais por meio da automação de processos.
 
 - 🏆 Reconhecido como **Automation Rockstar** pela [AutomationEdge](https://automationedge.com/br/) por desenvolver mais de **200 robôs de automação**.
 - 🥇 Premiado como **Melhor TI de 2021**, devido ao impacto gerado com soluções automatizadas que otimizam tempo e recursos.
