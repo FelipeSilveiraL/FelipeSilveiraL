@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Felipe Silveira Lara**, a technology professional with over **10 years of experience** in software development and process automation. I currently work as a **Senior RPA Developer** at [Grupo OVD](https://www.ovd.com.br/site/index.html), where I lead automation projects that bring real operational gains.
+I'm **Felipe Silveira Lara**, a technology professional with over **10 years of experience** in software development and process automation. I currently work as a **Senior RPA Developer** at [DT Consulting](https://dtconsulting.com.br/), where I lead automation projects that bring real operational gains.
 
 - 🏆 Recognized as an **Automation Rockstar** by [AutomationEdge](https://automationedge.com/br/) for developing over **200 automation bots**.
 - 🥇 Awarded as **Best IT Professional of 2021** due to the impact of automation projects that optimize time and resources.
