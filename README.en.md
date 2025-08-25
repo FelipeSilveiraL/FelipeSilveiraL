@@ -60,7 +60,7 @@ I’m passionate about technology and driven by challenges. I enjoy turning comp
 Currently diving deeper into:
 
 - 🐍 **Python**  
-- 🤖 **Automation and Robotic Process Automation (RPA - [AutomationEdge](https://automationedge.com/br/))**
+- 🤖 **Automação e Robotic Process Automation RPA - (AutomationEdge, Power Automation. Python)**
 
 > I use **Process Studio** as my main tool for building automations within the **AutomationEdge** platform.  
 > With the support of **Python**, I build bots that are robust, scalable, and highly reliable.
