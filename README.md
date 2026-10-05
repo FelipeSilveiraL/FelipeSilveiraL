@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Seja muito bem-vindo ao meu perfil no GitHub!</h1>
+<h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
 
 <p align="center">
   <a href="./README.en.md">
@@ -6,29 +6,28 @@
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Visualizações de perfil" />
+  <img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="Banner animado" />
+  <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="Animated banner" />
 </p>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou Felipe Silveira Lara, desenvolvedor sênior com mais de 10 anos de experiência em desenvolvimento e automação.
+I am Felipe Silveira Lara, a senior developer with over 10 years of experience in development and automation.
 
-Hoje trabalho na Preâmbulo Tech, no Office.ADV, sistema de gestão de processos jurídicos. O dia a dia é um monólito PHP com Zend Framework, Doctrine e PostgreSQL, em ambiente multi-tenant. Meu foco está em integrações com sistemas de terceiros (captura de publicações, protocolo de diligências), na API REST interna, em resumos e cálculos feitos por IA e em autenticação com SSO. Antes de codar, escrevo a especificação da mudança e valido com o time.
+Currently, I work at Preâmbulo Tech on Office.ADV, a legal practice management system. The core environment is a PHP monolith built with Zend Framework, Doctrine, and PostgreSQL in a multi-tenant architecture. My main focus is on third-party system integrations (court publication scraping, task dispatching protocols), internal REST APIs, AI-powered summaries and calculations, and SSO authentication. Before writing code, I draft feature specifications and review them with the team.
 
-Minha base é a automação de processos. Desenvolvi mais de 200 robôs de RPA e, por isso, fui reconhecido como Automation Rockstar pela [AutomationEdge](https://automationedge.com/br/). Esse histórico pesa nas minhas decisões de hoje: sempre pergunto o que dá para automatizar antes de pedir mais uma tela para o usuário.
+My foundation is process automation. I have built over 200 RPA bots, earning the Automation Rockstar recognition from [AutomationEdge](https://automationedge.com/br/). This background heavily influences my current decision-making: I always evaluate what can be automated before adding another UI screen for the user.
 
-- 🏆 Automation Rockstar pela AutomationEdge, com mais de 200 robôs de automação desenvolvidos.
-- 🥇 Melhor TI de 2021, pelo impacto de soluções automatizadas que pouparam tempo e recursos.
-- 🚛 Criador de uma plataforma para gestão de frotas e motoristas de uma transportadora.
-- ⛪ Desenvolvedor de uma plataforma que gerencia e monitora igrejas.
+- 🏆 Automation Rockstar by AutomationEdge, with over 200 automation bots developed.
+- 🥇 Best IT of 2021 award, recognized for automated solutions that saved significant time and resources.
+- 🚛 Creator of a fleet and driver management platform for a logistics company.
+- ⛪ Developer of a church management and monitoring platform.
 
-Gosto de pegar um problema bagunçado, achar a causa raiz e entregar a solução mais simples que funcione.
+I thrive on taking complex, messy problems, identifying the root cause, and delivering the simplest solution that works.
 
 ---
 
@@ -41,7 +40,7 @@ Gosto de pegar um problema bagunçado, achar a causa raiz e entregar a solução
 
 ---
 
-## 🛠 Tecnologias que utilizo
+## 🛠 Technologies I Use
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)&nbsp;
 ![Zend](https://img.shields.io/badge/-Zend%20Framework-05122A?style=flat&logo=zend)&nbsp;
@@ -62,19 +61,19 @@ Gosto de pegar um problema bagunçado, achar a causa raiz e entregar a solução
 
 ---
 
-## 📚 Aprendizado contínuo
+## 📚 Continuous Learning
 
-Atualmente me aprofundando em:
+Currently diving deeper into:
 
-- 🤖 IA aplicada a processos jurídicos
-- 📐 Desenvolvimento guiado por especificação (OpenSpec)
-- 🔐 SSO e autenticação distribuída
+- 🤖 AI applied to legal workflows
+- 📐 Specification-driven development (OpenSpec)
+- 🔐 SSO and distributed authentication
 
-Também mantenho a bagagem em RPA ([AutomationEdge](https://automationedge.com/br/), Power Automate e Python). Usei o Process Studio como principal ferramenta de desenvolvimento de automações na plataforma AutomationEdge, com Python para dar mais escala e confiabilidade aos robôs.
+I also maintain a strong background in RPA ([AutomationEdge](https://automationedge.com/br/), Power Automate, and Python). I used Process Studio as my primary development tool for automations on the AutomationEdge platform, alongside Python to increase bot scalability and reliability.
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Social Media
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-silveira-lara-85706110b/" target="_blank">
