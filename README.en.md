@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
 
 <p align="center">
-  <a href="./README.en.md">
+  <a href="./README.md">
     <img src="https://img.shields.io/badge/🇧🇷 Versão%20em%20Português-05122A?style=for-the-badge&logo=github" alt="Versão em Português" />
   </a>
 </p>
