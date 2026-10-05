@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/🌐 English%20Version-05122A?style=for-the-badge&logo=github" alt="English Version" />
+    <img src="https://img.shields.io/badge/🇧🇷 Versão%20em%20Português-05122A?style=for-the-badge&logo=github" alt="Versão em Português" />
   </a>
 </p>
 
