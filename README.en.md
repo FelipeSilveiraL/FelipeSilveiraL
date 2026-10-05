@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
 
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/🇧🇷 Versão%20em%20Português-05122A?style=for-the-badge&logo=github" alt="Versão em Português" />
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/🌐 English%20Version-05122A?style=for-the-badge&logo=github" alt="English Version" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FelipeSilveiraL&color=yellow" alt="Profile views" />
@@ -17,14 +16,18 @@
 
 ## 👨‍💻 About Me
 
-I'm **Felipe Silveira Lara**, a technology professional with over **10 years of experience** in software development and process automation. I currently work as a **Senior RPA Developer** at [DT Consulting](https://dtconsulting.com.br/), where I contribute to automation projects that generate real operational gains.
+I am Felipe Silveira Lara, a senior developer with over 10 years of experience in development and automation.
 
-- 🏆 Recognized as an **Automation Rockstar** by [AutomationEdge](https://automationedge.com/br/) for developing over **200 automation bots**.
-- 🥇 Awarded as **Best IT Professional of 2021** due to the impact of automation projects that optimize time and resources.
-- 🚛 Creator of a **fleet and driver management platform** for a logistics company.
-- ⛪ Developer of a **church management and monitoring system**, supporting organization and oversight for religious communities.
+Currently, I work at Preâmbulo Tech on Office.ADV, a legal practice management system. The core environment is a PHP monolith built with Zend Framework, Doctrine, and PostgreSQL in a multi-tenant architecture. My main focus is on third-party system integrations (court publication scraping, task dispatching protocols), internal REST APIs, AI-powered summaries and calculations, and SSO authentication. Before writing code, I draft feature specifications and review them with the team.
 
-I’m passionate about technology and driven by challenges. I enjoy turning complex problems into efficient, practical solutions — always focused on innovation and continuous improvement.
+My foundation is process automation. I have built over 200 RPA bots, earning the Automation Rockstar recognition from [AutomationEdge](https://automationedge.com/br/). This background heavily influences my current decision-making: I always evaluate what can be automated before adding another UI screen for the user.
+
+- 🏆 Automation Rockstar by AutomationEdge, with over 200 automation bots developed.
+- 🥇 Best IT of 2021 award, recognized for automated solutions that saved significant time and resources.
+- 🚛 Creator of a fleet and driver management platform for a logistics company.
+- ⛪ Developer of a church management and monitoring platform.
+
+I thrive on taking complex, messy problems, identifying the root cause, and delivering the simplest solution that works.
 
 ---
 
@@ -39,18 +42,21 @@ I’m passionate about technology and driven by challenges. I enjoy turning comp
 
 ## 🛠 Technologies I Use
 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)&nbsp;
+![Zend](https://img.shields.io/badge/-Zend%20Framework-05122A?style=flat&logo=zend)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![RPA](https://img.shields.io/badge/-RPA-05122A?style=flat&logo=robots&logoColor=white)&nbsp;
 
 ---
@@ -59,11 +65,11 @@ I’m passionate about technology and driven by challenges. I enjoy turning comp
 
 Currently diving deeper into:
 
-- 🐍 **Python**  
-- 🤖 **Automação e Robotic Process Automation RPA - (AutomationEdge, Power Automation. Python)**
+- 🤖 AI applied to legal workflows
+- 📐 Specification-driven development (OpenSpec)
+- 🔐 SSO and distributed authentication
 
-> I use **Process Studio** as my main tool for building automations within the **AutomationEdge** platform.  
-> With the support of **Python**, I build bots that are robust, scalable, and highly reliable.
+I also maintain a strong background in RPA ([AutomationEdge](https://automationedge.com/br/), Power Automate, and Python). I used Process Studio as my primary development tool for automations on the AutomationEdge platform, alongside Python to increase bot scalability and reliability.
 
 ---
 
