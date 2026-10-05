@@ -59,15 +59,9 @@ Gosto de pegar um problema bagunçado, achar a causa raiz e entregar a solução
 
 
 ## ⚙️ GitHub Analytics
-
-
-
 <p align="center">
-
   <img width="420em" src="https://github-readme-stats.vercel.app/api?username=FelipeSilveiraL&show_icons=true&theme=highcontrast" alt="FelipeSilveiraL GitHub Stats"/>
-
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilveiraL&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-
 </p>
 
 
@@ -77,9 +71,6 @@ Gosto de pegar um problema bagunçado, achar a causa raiz e entregar a solução
 
 
 ## 🛠 Tecnologias que utilizo
-
-
-
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)&nbsp;
 ![Zend](https://img.shields.io/badge/-Zend%20Framework-05122A?style=flat&logo=zend)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
@@ -100,51 +91,28 @@ Gosto de pegar um problema bagunçado, achar a causa raiz e entregar a solução
 ---
 
 ## 📚 Aprendizado contínuo
-
-
-
 Atualmente me aprofundando em:
-
-
-
 - 🤖 IA aplicada a processos jurídicos
-
 - 📐 Desenvolvimento guiado por especificação (OpenSpec)
-
 - 🔐 SSO e autenticação distribuída
 
-
-
 Também mantenho a bagagem em RPA ([AutomationEdge](https://automationedge.com/br/), Power Automate e Python). Usei o Process Studio como principal ferramenta de desenvolvimento de automações na plataforma AutomationEdge, com Python para dar mais escala e confiabilidade aos robôs.
-
-
 
 ---
 
 
 
 ## 🌐 Redes Sociais
-
-
-
 <p align="left">
-
   <a href="https://www.linkedin.com/in/felipe-silveira-lara-85706110b/" target="_blank">
-
     <img src="https://img.shields.io/badge/-FelipeSilveiraL-05122A?style=flat&logo=linkedin" alt="LinkedIn" />
-
   </a>
 
   <a href="https://www.instagram.com/felipesilveiralara/" target="_blank">
-
     <img src="https://img.shields.io/badge/-FelipeSilveiraL-05122A?style=flat&logo=instagram" alt="Instagram" />
-
   </a>
 
   <a href="https://www.facebook.com/felipe.silveira.967" target="_blank">
-
     <img src="https://img.shields.io/badge/-FelipeSilveiraL-05122A?style=flat&logo=facebook" alt="Facebook" />
-
   </a>
-
 </p>
