@@ -101,18 +101,11 @@ Gosto de pegar um problema bagunçado, achar a causa raiz e entregar a solução
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
-
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-
 ![RPA](https://img.shields.io/badge/-RPA-05122A?style=flat&logo=robots&logoColor=white)&nbsp;
 
-
-
 ---
-
-
 
 ## 📚 Aprendizado contínuo
 
